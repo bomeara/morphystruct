@@ -1,4 +1,5 @@
 \name{morphystruct}
+\alias{morphystruct}
 \alias{PlotPopulationsMeristic}
 \alias{CompareAllAssignmentsMeristic}
 \alias{OptimizeLogLikelihoodMeristicGivenAssignment}
